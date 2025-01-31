@@ -1,3 +1,19 @@
-site_name: My Docs
+site_name: SweetBITer
 theme:
-  name: material
+  name: material  # 主题
+  language: zh  # 语言
+  palette:
+    primary: "blue"  # 主色调
+    accent: "blue"  # 强调色调
+  features:
+    - header.autohide  # 自动隐藏标题栏 
+    - navigation.footer
+    
+extra:
+  social:
+    # - name: GitHub | Ney1486567118
+    #   icon: fontawesome/brands/github
+    #   link: https://github.com/Ney1486567118
+    # - name: QQMail | 1486567118@qq.com
+    #   icon: material/email-box
+    #   link: mailto:1486567118@qq.com
